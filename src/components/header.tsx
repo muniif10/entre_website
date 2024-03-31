@@ -1,6 +1,6 @@
 import React from "react";
 import { Tauri } from "next/font/google";
-import { NavMenu } from "~/pages/Nav/Nav_Bar";
+import { NavMenu } from "~/components/Nav/Nav_Bar";
 import Link from "next/link";
 const tauri = Tauri({ weight: "400", subsets: ["latin"] });
 export const SiteHead = () => {

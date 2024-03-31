@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { Button } from "~/components/ui/button";
 import { Tauri } from "next/font/google";
-import { NavMenu } from "./Nav/Nav_Bar";
+import { NavMenu } from "../components/Nav/Nav_Bar";
 import { SiteHead } from "~/components/header";
 const tauri = Tauri({ weight: "400", subsets: ["latin"] });
 export default function Home() {
