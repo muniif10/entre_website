@@ -39,7 +39,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <h1>hi</h1>
         </div>
       </main>
     </>
