@@ -10,7 +10,7 @@ export const SiteHead = () => {
         className={`${tauri.className} flex max-h-20 min-h-4 flex-row justify-between bg-gradient-to-br from-sky-500 to-sky-700 px-5 py-[2vh] pr-[20rem]`}
       >
         <Link
-          href={"/"}
+          href="/"
           className="self-center pr-5 text-2xl font-extrabold text-white  "
         >
           TechNex
