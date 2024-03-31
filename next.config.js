@@ -7,16 +7,13 @@ await import("./src/env.js");
 /** @type {import("next").NextConfig} */
 const config = {
   reactStrictMode: true,
+  basePath: "/entre_website ",
 
   /**
    * If you are using `appDir` then you must comment the below `i18n` config out.
    *
    * @see https://github.com/vercel/next.js/issues/41980
    */
-};
-
-module.exports = {
-  basePath: "/entre_website ", // Change this to match your GitHub Pages repository name
 };
 
 export default config;
