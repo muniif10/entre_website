@@ -17,7 +17,7 @@ export default function Home() {
           <SiteHead />
 
           <div
-            className={`${tauri.className} background-image: url('../public/images/hero.jpg'); flex min-h-[30vh]  items-center justify-center px-5 py-5`}
+            className={`${tauri.className} bg-gradient-to-b from-sky-300 to-gray-100 flex min-h-[30vh]  items-center justify-center px-5 py-5`}
           >
             <div className=" flex min-w-[20vw] max-w-[70vw] flex-col items-center  justify-center gap-5 text-gray-950">
               <div className="m-1  px-10 ">
