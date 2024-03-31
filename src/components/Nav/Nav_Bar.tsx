@@ -24,10 +24,10 @@ export function NavMenu() {
           <NavigationMenuTrigger>Our Services</NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
-              <ListItem href="/docs" title="IoT Inventory Management ">
+              <ListItem href="/entre_website/" title="IoT Inventory Management ">
                 Improves inventory management with IoT
               </ListItem>
-              <ListItem href="/docs/installation" title="Website Application">
+              <ListItem href="/entre_website/" title="Website Application">
                 Create engaging web application that turns lead
               </ListItem>
             </ul>
@@ -35,7 +35,7 @@ export function NavMenu() {
         </NavigationMenuItem>
 
         <NavigationMenuItem className="hidden sm:block">
-          <Link href="/docs" legacyBehavior passHref>
+          <Link href="/entre_website/" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
               Get Price Quotation
             </NavigationMenuLink>
@@ -45,7 +45,7 @@ export function NavMenu() {
           <NavigationMenuTrigger>Our Company</NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid w-[200px] gap-3 p-4 md:w-[300px] md:grid-cols-2 lg:w-[400px] ">
-              <ListItem href="/about_us" title="About Us" ></ListItem>
+              <ListItem href="/entre_website/about_us" title="About Us" ></ListItem>
             </ul>
           </NavigationMenuContent>
         </NavigationMenuItem>
