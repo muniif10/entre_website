@@ -13,7 +13,10 @@ const config = {
    *
    * @see https://github.com/vercel/next.js/issues/41980
    */
+};
 
+module.exports = {
+  basePath: "/entre_website ", // Change this to match your GitHub Pages repository name
 };
 
 export default config;
