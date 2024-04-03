@@ -45,7 +45,7 @@ export function NavMenu() {
           <NavigationMenuTrigger>Our Company</NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid w-[200px] gap-3 p-4 md:w-[300px] md:grid-cols-2 lg:w-[400px] ">
-              <ListItem href="/entre_website/about_us" title="About Us" ></ListItem>
+              <ListItem href="/about_us" title="About Us" ></ListItem>
             </ul>
           </NavigationMenuContent>
         </NavigationMenuItem>

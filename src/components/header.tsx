@@ -11,7 +11,7 @@ export const SiteHead = () => {
       >
         <Link
           href="/"
-          className="self-center pr-5 text-2xl font-extrabold text-white  "
+          className="text-xl self-center pr-5 sm:text-2xl font-extrabold text-white  "
         >
           TechNex
         </Link>
