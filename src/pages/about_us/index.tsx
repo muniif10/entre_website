@@ -54,7 +54,7 @@ export default function About_Us() {
                 <div className="grid gap-3 p-6 md:w-[400px] lg:w-[500px] lg:grid-cols-1">
                   {people.map((peep) => {
                     return (
-                      <ResizablePanelGroup
+                      <ResizablePanelGroup key={peep.title}
                         direction="horizontal"
                         className="max-w-md rounded-lg border"
                       >
