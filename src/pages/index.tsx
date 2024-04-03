@@ -55,7 +55,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <Image
-                  src="/computer1.jpg"
+                  src="https://images.pexels.com/photos/2422293/pexels-photo-2422293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                   alt=""
                   width={500}
                   height={500}
@@ -75,7 +75,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <Image
-                  src="/computer2.jpg"
+                  src="https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                   alt=""
                   width={500}
                   height={500}

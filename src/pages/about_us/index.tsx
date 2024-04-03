@@ -15,22 +15,22 @@ export default function About_Us() {
     {
       name: "Arif Danial",
       title: "Chief Operating Officer",
-      img: "/arif.jpg",
+      img: "https://media.licdn.com/dms/image/D5603AQHAQi7V-w-5hg/profile-displayphoto-shrink_800_800/0/1711806354521?e=1717632000&v=beta&t=QGOm0yMc-YNY11Ul9Rcgtq9iKXfWHEeF-yquODO20I8",
     },
     {
       name: "Muniif",
       title: "Lead Dev",
-      img:"/muniif.jpg"
+      img:"https://media.licdn.com/dms/image/D5603AQHlAEJysR4rXA/profile-displayphoto-shrink_800_800/0/1693906594073?e=1717632000&v=beta&t=SShvGcQ9xgBi_VkPNCbsM3_jGX0Jo2V7aj0jb8qdbMc"
     },
     {
       name: "Muadz Khalid",
       title: "Head of Marketing Division",
-      img:"/muadz.jpg"
+      img:"https://media.licdn.com/dms/image/D5603AQE3cGxxIciVpA/profile-displayphoto-shrink_800_800/0/1683530873380?e=1717632000&v=beta&t=cfFXNSJSk6JHx0tE70wKoxgX1UaObmKOtZ5lP6DTH-o"
     },
     {
       name: "Danish",
       title: "Human Resource",
-      img:"/danish.jpg"
+      img:"https://media.licdn.com/dms/image/D5603AQFQJsmN2dkfuA/profile-displayphoto-shrink_800_800/0/1685456050785?e=1717632000&v=beta&t=lUUtjSA_XBKlozIFggqcwD4GhQ-ZkyVhaxnJuPl4n4Q"
     },
   ];
 
