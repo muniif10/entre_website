@@ -6,6 +6,7 @@ await import("./src/env.js");
 
 /** @type {import("next").NextConfig} */
 const config = {
+  basePath: "/personal-portfolio",
   reactStrictMode: true,
   // basePath: "/entre_website ",
 
